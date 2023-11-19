@@ -2,7 +2,7 @@
 
 Techcareer flutter 2023 bootcamp kisiler uygulamasi ornegi
 
-## baslayalim
+## bloc cubit kullanimi var bunda
 
 
 
